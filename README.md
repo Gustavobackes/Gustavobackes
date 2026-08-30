@@ -11,12 +11,6 @@ Backend Software Engineer | Java 21 | Spring Boot | Microservices | Event-Driven
 - 📚 Estudando Kotlin
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/Gustavobackes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavobackes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobackes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <div> 
@@ -24,4 +18,3 @@ Backend Software Engineer | Java 21 | Spring Boot | Microservices | Event-Driven
   <a href = "mailto:kitzgustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Gustavobackes/Gustavobackes/blob/output/github-contribution-grid-snake.svg)
