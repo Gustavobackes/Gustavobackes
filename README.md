@@ -2,7 +2,7 @@
 
 Backend Software Engineer | Java 21 | Spring Boot | Microservices | Event-Driven Architecture
 
-- 🎯 Especializado em arquitetura de microsserviços escaláveis e resilientes
+- 🎯 Especializado em arquitetura de microsserviços
 - 🔧 Java 21, Spring Boot, APIs RESTful, Hexagonal Architecture
 - 🐰 RabbitMQ, sistemas assíncronos, webhooks
 - 🗄️ PostgreSQL, MongoDB, Redis
